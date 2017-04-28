@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translations on Drabtastic</title>
+    <link>/categories/translations/</link>
+    <description>Recent content in Translations on Drabtastic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/translations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Z-Ton] White Night (COMIC Anthurium 2016-05) [English]</title>
+      <link>/2017/02/z-ton-white-night-comic-anthurium-2016-05-english/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/z-ton-white-night-comic-anthurium-2016-05-english/</guid>
+      <description>&lt;p&gt;Yolo
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
